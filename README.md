@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # slurm
+=======
+# new_repo
+>>>>>>> 23181c3a3b62421ddc66ecd387ecf100d074e4e2
 
 
 
@@ -15,14 +19,22 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
+<<<<<<< HEAD
 git remote add origin https://gitlab.com/devopsprojectgroup/slurm.git
+=======
+git remote add origin https://gitlab.com/baigazyev/new_repo.git
+>>>>>>> 23181c3a3b62421ddc66ecd387ecf100d074e4e2
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
+<<<<<<< HEAD
 - [ ] [Set up project integrations](https://gitlab.com/devopsprojectgroup/slurm/-/settings/integrations)
+=======
+- [ ] [Set up project integrations](https://gitlab.com/baigazyev/new_repo/-/settings/integrations)
+>>>>>>> 23181c3a3b62421ddc66ecd387ecf100d074e4e2
 
 ## Collaborate with your team
 
